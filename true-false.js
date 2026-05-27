@@ -6,3 +6,6 @@ if (x) {
 } else {
   console.log("value of x is falsy");
 }
+
+const y = null;
+console.log(typeof y);
